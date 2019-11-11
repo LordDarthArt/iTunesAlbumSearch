@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iTunes Album Search</string>
+    <string name="search">Search</string>
+    <string name="try_again">Try again</string>
+    <string name="exit_accept_message">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="artist">Artist:</string>
+    <string name="price">Price:</string>
+    <string name="albums_list">Albums List</string>
+    <string name="free_price">Free</string>
+    <string name="track_list">Track List</string>
+    <string name="search_hint">Enter any album name</string>
+    <string name="menu_exit">Exit</string>
+</resources>
